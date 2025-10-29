@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-11T19:08:56 IST" name="Suite" finished-at="2025-10-11T19:09:48 IST" duration-ms="51855">
+    <groups>
+    </groups>
+    <test started-at="2025-10-11T19:08:56 IST" name="Test" finished-at="2025-10-11T19:09:48 IST" duration-ms="51855">
+      <class name="pom1AutomationPractice.PracticeTestTestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:08:56 IST" name="setUp" finished-at="2025-10-11T19:09:28 IST" duration-ms="31900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initPage()[pri:0, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:28 IST" name="initPage" finished-at="2025-10-11T19:09:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPage -->
+        <test-method signature="testRadioButtons()[pri:1, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:28 IST" name="testRadioButtons" finished-at="2025-10-11T19:09:33 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRadioButtons -->
+        <test-method signature="testSuggestionBox()[pri:2, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:33 IST" name="testSuggestionBox" finished-at="2025-10-11T19:09:35 IST" duration-ms="1771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuggestionBox -->
+        <test-method signature="testDropdown()[pri:3, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:35 IST" name="testDropdown" finished-at="2025-10-11T19:09:35 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdown -->
+        <test-method signature="testCheckboxes()[pri:4, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:35 IST" name="testCheckboxes" finished-at="2025-10-11T19:09:37 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckboxes -->
+        <test-method signature="testSwitchWindow()[pri:5, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:37 IST" name="testSwitchWindow" finished-at="2025-10-11T19:09:39 IST" duration-ms="2112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwitchWindow -->
+        <test-method signature="testSwitchTab()[pri:6, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:39 IST" name="testSwitchTab" finished-at="2025-10-11T19:09:42 IST" duration-ms="2711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwitchTab -->
+        <test-method signature="testAlerts()[pri:7, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:42 IST" name="testAlerts" finished-at="2025-10-11T19:09:43 IST" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlerts -->
+        <test-method signature="testWebTable()[pri:8, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:43 IST" name="testWebTable" finished-at="2025-10-11T19:09:43 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebTable -->
+        <test-method signature="testElementDisplayed()[pri:9, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:43 IST" name="testElementDisplayed" finished-at="2025-10-11T19:09:43 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElementDisplayed -->
+        <test-method signature="testFixedHeaderTable()[pri:10, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:43 IST" name="testFixedHeaderTable" finished-at="2025-10-11T19:09:43 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFixedHeaderTable -->
+        <test-method signature="testMouseHover()[pri:11, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:43 IST" name="testMouseHover" finished-at="2025-10-11T19:09:44 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMouseHover -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pom1AutomationPractice.PracticeTestTestNG@7c137fd5]" started-at="2025-10-11T19:09:44 IST" name="tearDown" finished-at="2025-10-11T19:09:48 IST" duration-ms="3563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pom1AutomationPractice.PracticeTestTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
