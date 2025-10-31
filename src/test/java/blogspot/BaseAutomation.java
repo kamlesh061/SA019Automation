@@ -22,3 +22,9 @@ public class BaseAutomation {
 	         }
 }
 }
+/*
+ * git init
+ * git add .
+ * git commit -m "Your descriptive commit message"
+ * git push -u origin <BRANCH_NAME>
+ */

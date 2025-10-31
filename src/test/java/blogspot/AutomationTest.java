@@ -19,6 +19,8 @@ public class AutomationTest extends BaseAutomation {
 		practice.selectAllCheckBox();
 		practice.selectDropDown();
 		practice.selectColour();
+		practice.selectSortList();
+		practice.selectDate();
 		
 		
 	}
